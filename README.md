@@ -4,6 +4,26 @@
 
 Notebooks and Scripts on Machine Learning
 
+
+## Index
+
+1. Introduction
+2. Supervised Learning link
+    1. Introduction [link](https://github.com/jmsevillam/LearningML/blob/master/Supervised/Init_disc.ipynb)
+    1. Regression
+        1. Introduction link
+        2. Linear Regression [link](https://github.com/jmsevillam/LearningML/blob/master/Supervised/LinearRegression/LinearRegression.ipynb)
+        3. Support Vector Machine (SVM)
+        4. Lasso 
+        5. Ridge
+    2. Classification [link](https://github.com/jmsevillam/LearningML/tree/master/Supervised/Classification)
+        1. Introduction link
+        2. Support Vector Machine (SVM) [link](https://github.com/jmsevillam/LearningML/blob/master/Supervised/Classification/SVC.ipynb)
+        3. Principal Component Analysis (PCA) [link](https://github.com/jmsevillam/LearningML/blob/master/Supervised/Classification/PCA.ipynb)
+        4. Kernel Principal Component Analysis (KPCA) [link](https://github.com/jmsevillam/LearningML/blob/master/Supervised/Classification/KPCA.ipynb)
+3. Unsupervised Learning link
+
+
 ## Some remarks
 
 This notebooks just shows some examples of the methods collected from tutorials, books and ourselves in order to get some insights on the ideas of supervised and unsupervised learning. 
