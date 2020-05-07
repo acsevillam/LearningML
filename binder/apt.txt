@@ -1,0 +1,8 @@
+htop
+tree
+vim
+nano
+emacs
+man
+python3
+python3-numpy

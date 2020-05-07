@@ -1,0 +1,9 @@
+ipython
+pandas
+numpy
+scipy
+vdom
+matplotlib
+sklearn
+seaborn
+jupyterlab_launcher>=0.5.0
